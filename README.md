@@ -1,0 +1,1 @@
+# rambo-newsletter-assets
