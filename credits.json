@@ -1,0 +1,26 @@
+[
+  {
+    "file": "img/commons-andromeda.jpg",
+    "credit": "Adam Evans",
+    "license": "CC BY 2.0",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1920px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_(with_h-alpha).jpg",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "img/commons-coliseum.jpg",
+    "credit": "Anthony Kernich from Adelaide, Australia",
+    "license": "CC BY 2.0",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Los_Angeles_Memorial_Coliseum_%2829297859221%29.jpg/1920px-Los_Angeles_Memorial_Coliseum_%2829297859221%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Memorial_Coliseum_(29297859221).jpg",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "img/commons-yulman.jpg",
+    "credit": "Spatms",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Benson_Field_at_Yulman_Stadium_%28New_Orleans%29.jpg/1920px-Benson_Field_at_Yulman_Stadium_%28New_Orleans%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Benson_Field_at_Yulman_Stadium_(New_Orleans).jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+]
